@@ -1,7 +1,8 @@
 <h1 align="center"> Hi 👋🏻,I'm Hemant Rajpurohit </h1>
 <h3 align="center">A blockchain developer</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://unsplash.com/illustrations/a-man-sitting-in-front-of-a-computer-on-a-desk-Aet1lavfSDI](https://plus.unsplash.com/premium_vector-1725682376725-781172349ae6?q=80&w=2242&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
+[![Alt Text](https://plus.unsplash.com/premium_vector-1725682376725-781172349ae6?q=80&w=2242&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://unsplash.com)
+
 
 # 💫 About Me:
 🎓 Final year BTech student passionate about technology<br>🌐 Web3 enthusiast with a strong interest in decentralized applications (dApps)<br>💻 Proficient in blockchain development, Solidity, React.js, and JavaScript<br>🛠️ Contributed to various Web3 projects, focusing on DeFi and smart contract security<br>🚀 Constantly learning and exploring emerging trends in blockchain technology<br><br>All of my projects are available at <br>https://github.com/Hemant-exe
