@@ -5,8 +5,17 @@
 
 
 
-# 💫 About Me:
-🎓 Final year BTech student passionate about technology<br>🌐 Web3 enthusiast with a strong interest in decentralized applications (dApps)<br>💻 Proficient in blockchain development, Solidity, React.js, and JavaScript<br>🛠️ Contributed to various Web3 projects, focusing on DeFi and smart contract security<br>🚀 Constantly learning and exploring emerging trends in blockchain technology<br><br>All of my projects are available at <br>https://github.com/Hemant-exe
+## 🌟 About Me  
+
+🎓 **Final Year BTech Student** passionate about **cutting-edge technology**  
+🌐 **Web3 Enthusiast**, diving deep into **Decentralized Applications (dApps)**  
+💻 **Blockchain Developer** skilled in **Solidity, React.js, and JavaScript**  
+🛠️ **Contributor to Web3 Projects**, specializing in **DeFi & Smart Contract Security**  
+🚀 Always **learning & exploring** the latest **trends in blockchain technology**  
+
+🔗 **Check out my projects:**  
+[![GitHub](https://img.shields.io/badge/GitHub-Hemant--exe-181717?style=for-the-badge&logo=github)](https://github.com/Hemant-exe)  
+
 
 
 ## 🌐 Socials:
