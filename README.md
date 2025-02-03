@@ -7,7 +7,7 @@
 
 ## 🌟 About Me  
 
-🎓 **Final Year BTech Student** passionate about **cutting-edge technology**  
+🎓 **Final Year BTech Student** passionate about **blockchain developement and its future scopes.**  
 🌐 **Web3 Enthusiast**, diving deep into **Decentralized Applications (dApps)**  
 💻 **Blockchain Developer** skilled in **Solidity, React.js, and JavaScript**  
 🛠️ **Contributor to Web3 Projects**, specializing in **DeFi & Smart Contract Security**  
