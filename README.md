@@ -13,8 +13,9 @@
 🛠️ **Contributor to Web3 Projects**, specializing in **DeFi & Smart Contract Security**  
 🚀 Always **learning & exploring** the latest **trends in blockchain technology**  
 
-🔗 **Check out my projects:**  
-[![GitHub](https://img.shields.io/badge/GitHub-Hemant--exe-181717?style=for-the-badge&logo=github)]([https://github.com/Hemant-exe?tab=repositories])  
+🔗 **Explore My Projects:**  
+[![GitHub Repositories](https://img.shields.io/badge/My%20Repositories-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemant-exe?tab=repositories)
+
 
 
 
