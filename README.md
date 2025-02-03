@@ -14,7 +14,7 @@
 🚀 Always **learning & exploring** the latest **trends in blockchain technology**  
 
 🔗 **Check out my projects:**  
-[![GitHub](https://img.shields.io/badge/GitHub-Hemant--exe-181717?style=for-the-badge&logo=github)](https://github.com/Hemant-exe)  
+[![GitHub](https://img.shields.io/badge/GitHub-Hemant--exe-181717?style=for-the-badge&logo=github)]([https://github.com/Hemant-exe](https://github.com/Hemant-exe?tab=repositories))  
 
 
 
